@@ -1,1 +1,1 @@
-# Persistency model to predict policy status change within the term of the policy. Helps to boost persistency rate.
+# Persistency model to predict policy status change within the term of the policy. Helps to boost persistency rate. Persistency refers to the volume of business that a life insurance company is able to retain.The policy is profitable for the insurer only when the policy persists within the insurers' portfolio for a certain period. Typically, life insurance has a longer persistency period to recover the costs and become profitable.
